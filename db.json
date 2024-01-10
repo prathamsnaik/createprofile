@@ -20,28 +20,9 @@
                                 "lastName": "Hardin",
                                 "firstName": "Hardin",
                                 "isPrimary": false
-                            },
-                            {
-                                "fullName": "Hardin,Kerry",
-                                "lastName": "Hardin",
-                                "firstName": "Hardin",
-                                "isPrimary": false
-                            },
-                            {
-                                "fullName": "Hardin,Kerry",
-                                "lastName": "Hardin",
-                                "firstName": "Hardin",
-                                "isPrimary": false
                             }
                         ],
                         "addresses": [
-                            {
-                                "city": "Houston",
-                                "state": "TX",
-                                "zipCode": "77038",
-                                "address1": "123 Second St",
-                                "isPrimary": false
-                            },
                             {
                                 "city": "Houston",
                                 "state": "TX",
