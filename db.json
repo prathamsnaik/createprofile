@@ -7,42 +7,7 @@
   "persons": [
     {
       "id": "-1",
-      "names": [
-        {
-          "fullName": "Matrix,Neo Trinity",
-          "lastName": "Matrix",
-          "firstName": "Neo",
-          "isPrimary": false,
-          "middleName": "Trinity"
-        },
-        {
-          "fullName": "Matrix,Neeo",
-          "lastName": "Matrix",
-          "firstName": "Neeo",
-          "isPrimary": false
-        },
-        {
-          "fullName": "Incognito,Choseone",
-          "lastName": "Incognito",
-          "firstName": "Chosenone",
-          "isPrimary": false
-        }
-      ],
       "birthDay": 2,
-      "addresses": [
-        {
-          "city": "MINNEAPOLIS",
-          "state": "MN",
-          "address1": "129 Red Pill Road",
-          "isPrimary": false
-        },
-        {
-          "city": "MINNEAPOLIS",
-          "state": "MN",
-          "address1": "1318 Blue Pill Way",
-          "isPrimary": false
-        }
-      ],
       "birthYear": 1951,
       "birthMonth": 5,
       "criminalRecords": [
@@ -50,6 +15,42 @@
           "id": "mvbigg7NpCUnYNRLBnDCSw==",
           "dob": "1981-06-29",
           "source": "MN_Bureau_of_Criminal_Apprehension",
+		  "names": [
+			{
+			  "fullName": "Hardin,Kerry",
+			  "lastName": "Hardin",
+			  "firstName": "Hardin",
+			  "isPrimary": false,
+			},
+			{
+			  "fullName": "Hardin,Kerry",
+			  "lastName": "Hardin",
+			  "firstName": "Hardin",
+			  "isPrimary": false,
+			},
+			{
+			  "fullName": "Hardin,Kerry",
+			  "lastName": "Hardin",
+			  "firstName": "Hardin",
+			  "isPrimary": false,
+			}
+		  ],
+		   "addresses": [
+			{
+			  "city": "Houston",
+			  "state": "TX",
+			  "zipCode":"77038",
+			  "address1": "123 Second St",
+			  "isPrimary": false
+			},
+			{
+			  "city": "Houston",
+			  "state": "TX",
+			  "zipCode":"77038",
+			  "address1": "123 Second St",
+			  "isPrimary": false
+			}
+		  ],
           "Offenses": [
             {
               "courtName": "HENNEPIN CO DISTRICT COURT",
